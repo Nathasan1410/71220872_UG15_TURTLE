@@ -1,0 +1,7 @@
+import turtle
+sc = turtle.Screen()
+t = turtle.Turtle()
+t.shape('turtle')
+
+
+sc.exitonclick()
