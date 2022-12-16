@@ -78,7 +78,7 @@ def S():
 def background():
     screen = turtle.Screen()
     screen.setup(600,400)
-    screen.bgpic('c57.jpg')
+    screen.bgpic('c57.gif')
 
 
 N()
